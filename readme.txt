@@ -7,7 +7,7 @@ Setup:
 ================================================================================
 
 Download source and install dependencies.
-$ git clone https://github.com/cloud11665/vlott
+$ git clone https://github.com/Kristynpos/vlott
 $ cd vlott
 $ pip install -r requirements.txt
 $ VLOTT_USE_V1=0 ./run.py
